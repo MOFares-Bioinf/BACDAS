@@ -1,5 +1,5 @@
 # BACDAS.
-# Amplicon Sequence Analysis Tool Scripts
+# Benchmarking Analysis for Clustering / Denoising Amplicon Sequences 
 
 This repository contains a collection of Bash scripts for analyzing amplicon sequences using various bioinformatics tools. Each script is designed to perform a specific analysis or task, and they can be used individually or combined as part of a larger workflow.
 
